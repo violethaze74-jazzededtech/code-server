@@ -3708,10 +3708,10 @@ rimraf@^3.0.2:
   dependencies:
     glob "^7.1.3"
 
-rotating-file-stream@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/rotating-file-stream/-/rotating-file-stream-3.0.0.tgz#5193da921808dc98e1e60595fb2f32d33d622884"
-  integrity sha512-qKk1AAjrKxFYIqRU/GBSzwMLM7wqHYxztKXk7h55728n5EU2sKlPNlcXjqfbK11TiOUZChbtAHDCDIGCE6cg5g==
+rotating-file-stream@^3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/rotating-file-stream/-/rotating-file-stream-3.0.4.tgz#158e21aa229020b1443607e771c634f00bd7bbf1"
+  integrity sha512-Zd+IA5soqBUKtCa7KfMRnF7GKEaRav/dJFU7UHc+r1FMd8VvMLUFE0q1HX5s6XJO1cZ6jAqtTa/ZFnjc7IqlJA==
 
 router@2.0.0-alpha.1:
   version "2.0.0-alpha.1"
